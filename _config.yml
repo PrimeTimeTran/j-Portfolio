@@ -69,3 +69,4 @@ defaults:
     values:
       permalink: ""
       title: A Technology Blog
+      excerpt_separator: <!--more-->
