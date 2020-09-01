@@ -68,3 +68,4 @@ defaults:
       type: "posts"
     values:
       permalink: ""
+      title: A Technology Blog

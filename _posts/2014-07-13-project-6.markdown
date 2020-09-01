@@ -4,8 +4,38 @@ modal-id: 6
 date: 2014-07-15
 img: submarine.png
 alt: image-alt
-project-date: April 2014
+project-date: September 2020
 client: Start Bootstrap
 category: Web Development
 description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+excerpt_separator: <!--more-->
 ---
+
+# Heading 1
+
+## Heading 2
+
+1. First item
+2. Second item
+3. Third item
+
+- First item
+- Second item
+- Third item
+
+```yml
+livereload: true
+title: PrimeTimeTran
+email: datloiboi@gmail.com
+url: https://github.com/PrimeTimeTran
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+keywords: "Node.Js, React.JS, ReactJS, React, React Native, Ruby on Rails"
+skills: "Tech Lead - Mobile Lead - Solutions Architect"
+meta_author: Tran Loi
+```
+
+# H1
+
+## H2
+
+### H3
