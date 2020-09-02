@@ -34,6 +34,12 @@ skills: "Tech Lead - Mobile Lead - Solutions Architect"
 meta_author: Tran Loi
 ```
 
+```javascript
+function hello(name) {
+
+}
+```
+
 # H1
 
 ## H2
