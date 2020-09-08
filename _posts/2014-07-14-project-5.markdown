@@ -9,3 +9,40 @@ client: Start Bootstrap
 category: Web Development
 description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---
+
+
+# Google Sheets API
+
+## Setup
+
+1. Oauth.
+2. Postman.
+3. View.
+
+`.env`
+
+```js
+// .env
+const SheetAPIKey = **********
+```
+
+```js
+// App.js
+const url = `https://sheets.googleapis.com/v4/spreadsheets/1WtQp4hxNwaIoceW4BhDjkY4ttqR9pTWWuHCagmF3ER8/values/Form%20Responses%201?key=${SheetAPIKey}`
+```
+
+4. Insert Records.
+
+
+```json
+// POST
+{
+  "values": [
+    [
+      "Column 1",
+      "Column 2",
+      "Column 3",
+    ]
+  ]
+}
+```
