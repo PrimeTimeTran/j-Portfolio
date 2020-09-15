@@ -1,0 +1,19 @@
+---
+layout: default
+modal-id: 1
+date: 2020-09-15
+img: cabin.png
+alt: image-alt
+project-date: September 2020
+client: One on One English
+category: React Native
+description: Originally hired to be the mobile lead, I was promoted to solutions architect within 6 months.
+---
+
+# HEading 1
+## HEading 2
+
+- Item
+- Item 2
+- Item 3 
+- Item 4
