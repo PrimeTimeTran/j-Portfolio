@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 1
+date: 2020-09-15
+img: jekyll.png
+alt: image-alt
+project-date: September 2020
+client: Personal Development
+category: Jekyll
+description: Jekyll is a simple, blog-aware, static site generator for personal, project, or organization sites. Written in Ruby by Tom Preston-Werner, GitHub's co-founder, it is distributed under the open source MIT license
+---
+
+# Benefits
+
+- Easy
+- Quick
+- Beautiful
