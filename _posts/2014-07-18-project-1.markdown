@@ -11,7 +11,8 @@ description: Use this area of the page to describe your project. Lorem ipsum dol
 ---
 
 # Heading 1
-## HEading 2
+
+## Heading 2
 
 - Item
 - Item 2
