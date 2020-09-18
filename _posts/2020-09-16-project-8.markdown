@@ -15,3 +15,16 @@ description: Jekyll is a simple, blog-aware, static site generator for personal,
 - Easy
 - Quick
 - Beautiful
+
+# Quick Start
+
+
+```terminal
+  gem install bundler jekyll
+
+  jekyll new my-awesome-site
+
+  cd my-awesome-site
+
+  bundle exec jekyll serve
+```
