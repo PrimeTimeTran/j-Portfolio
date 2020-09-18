@@ -10,14 +10,13 @@ category: Jekyll, Hello
 description: Jekyll is a simple, blog-aware, static site generator for personal, project, or organization sites. Written in Ruby by Tom Preston-Werner, GitHub's co-founder, it is distributed under the open source MIT license
 ---
 
-# Benefits
+# Overview
 
 - Easy
 - Quick
 - Beautiful
 
-# Quick Start
-
+## Quick Start
 
 ```terminal
   gem install bundler jekyll
@@ -27,4 +26,10 @@ description: Jekyll is a simple, blog-aware, static site generator for personal,
   cd my-awesome-site
 
   bundle exec jekyll serve
+
+```
+
+Hot reload on changes
+```terminal
+bundle exec jekyll serve --livereload
 ```
