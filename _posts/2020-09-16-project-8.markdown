@@ -30,6 +30,7 @@ description: Jekyll is a simple, blog-aware, static site generator for personal,
 ```
 
 Hot reload on changes
+
 ```terminal
 bundle exec jekyll serve --livereload
 ```
