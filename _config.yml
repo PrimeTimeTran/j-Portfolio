@@ -3,10 +3,10 @@ livereload: true
 title: PrimeTimeTran
 email: datloiboi@gmail.com
 url: https://github.com/PrimeTimeTran
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "Solution Architect, Solutions Architect, Node.Js, React.JS, ReactJS, React, React Native, Ruby on Rails"
+description: "Professional software developer, Loi Tran is a Solutions Architect with over 5 years of professional development experience. He specializes in Node, React, React Native, Electron, &  Ruby on Rails."
+keywords: "Solution Architect, Solutions Architect, Node.Js, React.JS, ReactJS, React, React Native, Ruby on Rails in Ho Chi Minh City, Vietnam. Outsourcing, Freelancer"
 skills: "Developer - Instructor - Student"
-meta_author: Tran Loi
+meta_author: Loi Van Tran
 
 # Google webmaster tools
 google_verify:
@@ -22,7 +22,7 @@ contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
+disqus_shortname: PrimeTimeTran
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
