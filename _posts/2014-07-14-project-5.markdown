@@ -2,12 +2,12 @@
 layout: default
 modal-id: 5
 date: 2014-01-05
-img: safe.png
+img: flask.png
 alt: image-alt
 project-date: September 2014
 client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+category: Web Development, Flask, Python, Web Frameworks
+description: Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions.
 ---
 
 
