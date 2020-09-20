@@ -55,7 +55,7 @@ address:
   - line: HCMC, Vietnam
 
 # About content
-about: 'This is a technology blog for those interested in Node.JS, React.JS, React Native & Ruby on Rails'
+about: 'This is a technology blog for those interested in <a href="https://nodejs.org/en/">Node.JS</a>, <a href="https://reactjs.org/">React.JS</a>, <a href="https://reactnative.dev/">React Native</a> & <a href="https://rubyonrails.org/">Ruby on Rails</a>'
 
 # Build settings
 markdown: kramdown
