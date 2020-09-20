@@ -40,14 +40,17 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: facebook
-    url: https://www.facebook.com/PrimeTimeTran/
-  - title: stack-overflow
-    url: https://stackoverflow.com/users/5451285/primetimetran
+
   - title: github
     url: https://github.com/PrimeTimeTran
   - title: linkedin
     url: https://www.linkedin.com/in/primetimetran/
+  - title: youtube
+    url: https://www.youtube.com/channel/UCGh6HQz-nRtdqTxP1CiFFlg
+  - title: stack-overflow
+    url: https://stackoverflow.com/users/5451285/primetimetran
+  - title: facebook
+    url: https://www.facebook.com/PrimeTimeTran/
 
 # Postal address (add as many lines as necessary)
 address:
