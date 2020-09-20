@@ -33,7 +33,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: PrimeTimeTran
+  copyright: <a href="https://www.primetimetran.com"> PrimeTimeTran</a>
   location: Location
   social: Web
   about: About
@@ -45,11 +45,11 @@ social:
     url: https://github.com/PrimeTimeTran
   - title: linkedin
     url: https://www.linkedin.com/in/primetimetran/
-  - title: youtube
+  - title: youtube-play
     url: https://www.youtube.com/channel/UCGh6HQz-nRtdqTxP1CiFFlg
   - title: stack-overflow
     url: https://stackoverflow.com/users/5451285/primetimetran
-  - title: facebook
+  - title: facebook-square
     url: https://www.facebook.com/PrimeTimeTran/
 
 # Postal address (add as many lines as necessary)

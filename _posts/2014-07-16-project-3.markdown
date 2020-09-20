@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2014-01-03
-img: react-native.png
+img: react.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
