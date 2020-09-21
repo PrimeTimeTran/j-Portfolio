@@ -257,8 +257,8 @@ section.success {
     .portfolio-flex-grid .portfolio-flex-row {
       display: flex;
       flex-flow: row wrap;
-      align-items: stretch;
-      justify-content: space-between;
+      align-items: center;
+      justify-content: center;
     }
     .portfolio-flex-grid .portfolio-flex-row .portfolio-flex-item {
       flex: 1 0 49%;
