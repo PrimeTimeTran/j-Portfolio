@@ -6,7 +6,14 @@ img: react-native.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
+categories: 
+
+  - title: Intro
+    url: intro
+  - title: Web Development
+    url: web-development
+  - title: React Native
+    url: react-native
 description: 
 
 ---

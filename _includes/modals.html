@@ -28,18 +28,23 @@
                 </strong>
               </li>
               {% endif %}
-              {% if post.category %}
-              <li>Service:
-                <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
+
+              {% if post.categories %}
+              <li>Tags:
+                {% for category in post.categories %}
+                <strong>
+                  <a href="?category={{category.title}}">{{ category.title }}</a>
                 </strong>
+                {% endfor %}
               </li>
               {% endif %}
+
             </ul>
             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+
             {% if post.description %}
             <p>{{ post.description }}</p>
             {% endif %}
-
 
             <div className='text-left'>
               {{ post.excerpt }}

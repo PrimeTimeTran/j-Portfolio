@@ -6,7 +6,15 @@ img: flask.png
 alt: image-alt
 project-date: September 2014
 client: Start Bootstrap
-category: Web Development, Flask, Python, Web Frameworks
+categories: 
+
+  - title: Intro
+    url: intro
+  - title: Web Development
+    url: web-development
+  - title: Flask
+    url: flask
+
 description: Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions.
 ---
 

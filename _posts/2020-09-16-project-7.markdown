@@ -6,7 +6,14 @@ img: mongo.png
 alt: image-alt
 project-date: September 2020
 client: One on One English
-category: React Native
+categories: 
+
+  - title: Intro
+    url: intro
+  - title: Web Development
+    url: web-development
+  - title: MongoDB
+    url: mongodb
 description: Originally hired to be the mobile lead, I was promoted to solutions architect within 6 months.
 ---
 
