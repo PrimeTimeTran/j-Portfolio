@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 8
-date: 2020-09-15
+date: 2020-09-16
 img: jekyll.png
 alt: image-alt
 project-date: September 2020
@@ -20,9 +20,9 @@ description: Jekyll is a simple, blog-aware, static site generator for personal,
 
 # Overview
 
-- Easy
-- Quick
-- Beautiful
+- [Installation](https://jekyllrb.com/docs/installation/)
+- [Showcase](https://jekyllrb.com/showcase/)
+- [Resources](https://jekyllrb.com/resources/)
 
 ## Quick Start
 
@@ -34,8 +34,9 @@ description: Jekyll is a simple, blog-aware, static site generator for personal,
   cd my-awesome-site
 
   bundle exec jekyll serve
-
 ```
+
+## Tips
 
 Hot reload on changes
 
