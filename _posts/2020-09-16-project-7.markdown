@@ -17,10 +17,11 @@ categories:
 description: Originally hired to be the mobile lead, I was promoted to solutions architect within 6 months.
 ---
 
-# HEading 1
-## HEading 2
+# Heading 1
+
+## Heading 2
 
 - Item
 - Item 2
-- Item 3 
+- Item 3
 - Item 4
