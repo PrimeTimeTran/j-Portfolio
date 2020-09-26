@@ -2,9 +2,9 @@
 layout: default
 modal-id: 8
 date: 2020-09-16
-img: jekyll.png
+img: electron.png
 alt: image-alt
-project-date: September 2020
+project-date: April 2020
 client: Personal Development
 categories: 
 
@@ -12,28 +12,21 @@ categories:
     url: intro
   - title: Web Development
     url: web-development
-  - title: Jekyll
-    url: jekyll
+  - title: Electron
+    url: electron
 
 description: Jekyll is a simple, blog-aware, static site generator for personal, project, or organization sites. Written in Ruby by Tom Preston-Werner, GitHub's co-founder, it is distributed under the open source MIT license
 ---
 
 # Overview
 
-- [Installation](https://jekyllrb.com/docs/installation/)
-- [Showcase](https://jekyllrb.com/showcase/)
-- [Resources](https://jekyllrb.com/resources/)
+- [Official Documentation](https://www.electronjs.org/)
+- [Showcase](https://www.electronjs.org/apps)
 
 ## Quick Start
 
 ```terminal
-  gem install bundler jekyll
 
-  jekyll new my-awesome-site
-
-  cd my-awesome-site
-
-  bundle exec jekyll serve
 ```
 
 ## Tips
@@ -41,5 +34,4 @@ description: Jekyll is a simple, blog-aware, static site generator for personal,
 Hot reload on changes
 
 ```terminal
-bundle exec jekyll serve --livereload
 ```
