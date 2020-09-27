@@ -22,11 +22,12 @@ description: "Ruby on Rails, or Rails, is a server-side web application framewor
 Ruby on Rails' emergence in 2005 greatly influenced web app development, through innovative features such as seamless database table creations, migrations, and scaffolding of views to enable rapid application development. Ruby on Rails' influence on other web frameworks remains apparent today, with many frameworks in other languages borrowing its ideas, including Django in Python, Catalyst in Perl, Laravel and CakePHP in PHP, Phoenix in Elixir, Play in Scala, and Sails.js in Node.js."
 ---
 
-# Heading 1
+# High Level Overview
+
+![Rails](https://cdn-media-1.freecodecamp.org/images/1*KK61kGXrkaFBDfY7uWukyQ.png)
 
 ## Heading 2
 
-- Item
-- Item 2
-- Item 3
-- Item 4
+- Model
+- View
+- Controller
