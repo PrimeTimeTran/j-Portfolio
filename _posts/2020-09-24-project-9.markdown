@@ -20,8 +20,8 @@ description: "Electron is an open-source software framework developed and mainta
 
 # Overview
 
-- [Official Documentation](https://www.electronjs.org/)
-- [Showcase](https://www.electronjs.org/apps)
+- <a href="https://www.electronjs.org/" target="_blank">Official Documentation</a>
+- <a href="https://www.electronjs.org/apps" target="_blank">Showcase</a>
 
 ## Quick Start
 
