@@ -25,6 +25,9 @@ description: "Electron is an open-source software framework developed and mainta
 
 ## Quick Start
 
+- [Setup](https://www.electronjs.org/docs/tutorial/development-environment#setting-up-macos)
+- [Example Project Demoing APIs](https://www.electronjs.org/#get-started)
+
 ```terminal
 
 ```
