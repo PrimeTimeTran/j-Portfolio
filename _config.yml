@@ -19,7 +19,6 @@ bing_verify:
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
 contact: static
-
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
 disqus_shortname: PrimeTimeTran
@@ -64,9 +63,7 @@ about: 'This is a technology blog for those interested in <a href="https://nodej
 markdown: kramdown
 permalink: pretty
 
-
-
-#for posts
+# for posts
 defaults:
   - scope:
       path: ""

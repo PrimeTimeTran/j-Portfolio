@@ -1,14 +1,10 @@
 <!DOCTYPE html>
 <html>
 {% include head.html %}
-
 <body id="page-top" class="index">
-  {% include nav.html %}
+  {% include nav.html content="home" %}
   {% include header.html %}
 
-  <h1>Categories</h1>
-  {% include posts_by_tag.md %}
-  
   {% include portfolio_grid.html %}
 
   {% include about.html %}

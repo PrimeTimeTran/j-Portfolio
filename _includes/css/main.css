@@ -498,3 +498,8 @@ ul.tag-box li a {
 ul.tag-box li span.size {
   font-weight: 300;
 }
+
+
+section#categories {
+  padding: 10em;
+}
