@@ -6,8 +6,7 @@ img: electron.png
 alt: image-alt
 project-date: April 2020
 client: Personal Development
-categories: 
-
+categories:
   - title: Intro
     url: intro
   - title: Web Development
@@ -20,15 +19,42 @@ description: "Electron is an open-source software framework developed and mainta
 
 # Overview
 
-- <a href="https://www.electronjs.org/" target="_blank">Official Documentation</a>
-- <a href="https://www.electronjs.org/apps" target="_blank">Showcase</a>
+Electron is an open source framework for **building desktop applications**.
 
-## Quick Start
+If you can build a website, you can build a desktop app. Electron is a framework for creating native applications with web technologies like JavaScript, HTML, and CSS. It takes care of the hard parts so you can focus on the core of your application.
 
-- [Setup](https://www.electronjs.org/docs/tutorial/development-environment#setting-up-macos)
-- [Example Project Demoing APIs](https://www.electronjs.org/#get-started)
+<details>
+  <summary>Web Technologies
+  </summary>
+  <br>
+  Electron uses Chromium and Node.js so you can build your app with HTML, CSS, and JavaScript.
+</details>
+
+<details>
+  <summary>Open Source
+  </summary>
+  <br>
+  Electron is an open source project maintained by GitHub and an active community of contributors.
+</details>
+
+<details>
+  <summary>Cross Platform
+  </summary>
+  <br>
+  Compatible with Mac, Windows, and Linux, Electron apps build and run on three platforms.
+</details>
+
+## Documentation
+
+- <a href="https://www.electronjs.org/" target="_blank">Official Website</a>
+- <a href="https://www.electronjs.org/docs/tutorial/development-environment#setting-up-macos" target="_blank">Setup</a>
+- <a href="https://www.electronjs.org/#get-started" target="_blank">Example Project Demoing APIs</a>
 
 ## Popular Electron Apps
+
+- <a href="https://www.electronjs.org/apps" target="_blank">Showcase</a>
+
+<br />
 
 [<img style="margin-right: 10px" align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 
@@ -36,7 +62,7 @@ description: "Electron is an open-source software framework developed and mainta
 
 <br />
 
-# Hello 
+# Quickstart
 
 ```terminal
 
@@ -47,6 +73,7 @@ description: "Electron is an open-source software framework developed and mainta
 Hot reload on changes
 
 ```terminal
+
 ```
 
 [vscode]: https://code.visualstudio.com/
