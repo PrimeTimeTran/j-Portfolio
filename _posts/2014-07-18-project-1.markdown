@@ -6,6 +6,9 @@ img: rails.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
+tags:
+  - Ruby on Rails
+
 categories: 
 
   - title: Intro

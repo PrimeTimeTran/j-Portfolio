@@ -64,6 +64,8 @@ about: 'This is a technology blog for those interested in <a href="https://nodej
 markdown: kramdown
 permalink: pretty
 
+
+
 #for posts
 defaults:
   - scope:

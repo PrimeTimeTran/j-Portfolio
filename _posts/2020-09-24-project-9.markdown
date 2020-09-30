@@ -6,6 +6,9 @@ img: electron.png
 alt: image-alt
 project-date: April 2020
 client: Personal Development
+tags:
+  - Electron
+
 categories:
   - title: Intro
     url: intro

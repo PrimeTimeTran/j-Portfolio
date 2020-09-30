@@ -6,6 +6,9 @@ img: jekyll.png
 alt: image-alt
 project-date: September 2020
 client: Personal Development
+tags:
+  - Jekyll
+
 categories: 
 
   - title: Intro

@@ -5,6 +5,10 @@
 <body id="page-top" class="index">
   {% include nav.html %}
   {% include header.html %}
+
+  <h1>Categories</h1>
+  {% include posts_by_tag.md %}
+  
   {% include portfolio_grid.html %}
 
   {% include about.html %}
@@ -20,7 +24,7 @@
   {% include footer.html %}
   {% include modals.html %}
   {% include js.html %}
-  <!-- Global site tag (gtag.js) - Google Analytics -->
+
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-77564143-3"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
