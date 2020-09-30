@@ -6,6 +6,8 @@ img: electron.png
 alt: image-alt
 project-date: April 2020
 client: Personal Development
+title: What is Electron?
+title: A Tech Blog
 tags:
   - Electron
 

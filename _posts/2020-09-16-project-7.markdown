@@ -6,6 +6,7 @@ img: mongo.png
 alt: image-alt
 project-date: September 2020
 client: One on One English
+title: What is MongoDB?
 tags:
   - MongoDB
 

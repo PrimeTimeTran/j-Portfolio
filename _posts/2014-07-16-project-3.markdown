@@ -6,6 +6,10 @@ img: react.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
+title: What is React?
+tags:
+  - React
+  
 categories: 
 
   - title: Intro

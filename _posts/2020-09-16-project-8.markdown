@@ -6,6 +6,7 @@ img: jekyll.png
 alt: image-alt
 project-date: September 2020
 client: Personal Development
+title: What is Jekyll?
 tags:
   - Jekyll
 

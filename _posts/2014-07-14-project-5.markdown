@@ -6,6 +6,10 @@ img: flask.png
 alt: image-alt
 project-date: September 2014
 client: Start Bootstrap
+title: What is Flask?
+tags:
+  - Flask
+
 categories: 
 
   - title: Intro

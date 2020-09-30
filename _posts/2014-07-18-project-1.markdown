@@ -6,6 +6,7 @@ img: rails.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
+title: What is Ruby on Rails?
 tags:
   - Ruby on Rails
 
