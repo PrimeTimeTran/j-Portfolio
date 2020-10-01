@@ -13,22 +13,19 @@
       <a class="button active" data-filter="*">All</a>
     </div>
 
-    <div class="posts" style="flex-direction: column;">
+    <div class="posts">
       {% for post in site.posts %}
-      <div class="element-item {{ post.tags }}">
-        <h1>
-          <a class="post-link" data-toggle="collapse" href="#collapseExample" aria-expanded="false"
-            aria-controls="collapseExample">
-            {{ post.title }}
-          </a>
-        </h1>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <div class="collapse" id="collapseExample">
-          <div class="card card-body">
-            {{post.excerpt}}
-          </div>
-        </div>
 
+      <div class="element-item {{ post.tags }}">
+        <h1 class="link">
+          <a href="#" class="href">{{ post.title }}</a>
+
+        </h1>
+        <h5 class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</h5>
+        <div>
+          {{post.excerpt}}
+
+        </div>
       </div>
       {% endfor %}
     </div>
@@ -41,6 +38,9 @@
   <script>
     var $grid = $('.posts').isotope({
       // options
+      masonry: {
+        columnWidth: 1000
+      }
     });
     $('.filter-button-group').on('click', 'a', function () {
       var filterValue = $(this).attr('data-filter');
