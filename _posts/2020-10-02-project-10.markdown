@@ -17,3 +17,7 @@ description: "A Product Owner"
 ---
 
 # Overview
+
+# Videos
+- [Blog Post](https://www.scaledagileframework.com/product-owner/)
+- [Awesome Explanation of JD & Challenges](https://www.youtube.com/watch?v=502ILHjX9EE)
