@@ -18,6 +18,9 @@ description: "A Product Owner"
 
 # Overview
 
-# Videos
+## Videos
+
 - [Blog Post](https://www.scaledagileframework.com/product-owner/)
+- [7 Key Reposibilities of a Product Owner](https://www.lucidchart.com/blog/product-owner-roles-and-responsibilitieshttps://www.lucidchart.com/blog/product-owner-roles-and-responsibilities)
+
 - [Awesome Explanation of JD & Challenges](https://www.youtube.com/watch?v=502ILHjX9EE)
