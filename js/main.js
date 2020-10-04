@@ -9,3 +9,7 @@ if (queryString) {
     }
   }
 }
+
+setTimeout(() => {
+  document.title = 'A Tech Blog by PrimeTimeTran'
+}, 50) 
