@@ -4,15 +4,11 @@ modal-id: 10
 date: 2020-10-02
 img: po-2.png
 alt: image-alt
-project-date: April 2020
+project-date: October 2020
 client: Personal Development
 title: What is Product Owner?
-title: A Tech Blog
-tags:
-  - Product Owner
-
+tags: Product-Owner
 categories: Product Owner
-
 description: "A Product Owner"
 ---
 

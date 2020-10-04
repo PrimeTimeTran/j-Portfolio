@@ -7,8 +7,7 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 title: What is React?
-tags:
-  - React
+tags: React
   
 categories: 
 

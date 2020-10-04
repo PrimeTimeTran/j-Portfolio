@@ -15,16 +15,14 @@
 
     <div class="posts">
       {% for post in site.posts %}
-
-      <div class="element-item {{ post.tags }} border border-primary" style="border: solid; padding: 20px; margin-top: 100px; width: 100%">
+      <div class="element-item border border-primary {{ post.tags }}" style="border: solid; padding: 20px; margin-top: 100px; width: 100%">
         <h1 class="link">
           <a href="#" class="href">{{ post.title }}</a>
 
         </h1>
         <h5 class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</h5>
         <div class="border border-primary">
-          {{post.excerpt}}
-
+          {{ post.excerpt }}
         </div>
       </div>
       {% endfor %}
@@ -44,6 +42,7 @@
     });
     $('.filter-button-group').on('click', 'a', function () {
       var filterValue = $(this).attr('data-filter');
+      console.log({filterValue})
       $grid.isotope({ filter: filterValue });
     });
     $('.button-group a.button').on('click', function () {
