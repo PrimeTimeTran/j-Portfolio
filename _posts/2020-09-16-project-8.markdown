@@ -22,11 +22,11 @@ categories:
 description: Jekyll is a simple, blog-aware, static site generator for personal, project, or organization sites. Written in Ruby by Tom Preston-Werner, GitHub's co-founder, it is distributed under the open source MIT license
 ---
 
-# Overview
+## Overview
 
-- [Installation](https://jekyllrb.com/docs/installation/)
-- [Showcase](https://jekyllrb.com/showcase/)
-- [Resources](https://jekyllrb.com/resources/)
+- <a href="https://jekyllrb.com/docs/installation/" target="_blank">Installation</a>
+- <a href="https://jekyllrb.com/showcase/" target="_blank">Showcase</a>
+- <a href="https://jekyllrb.com/resources/" target="_blank">Resources</a>
 
 ## Quick Start
 

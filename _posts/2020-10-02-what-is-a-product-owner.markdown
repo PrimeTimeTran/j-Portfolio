@@ -36,7 +36,7 @@ Your effort is important for the company as you will need to deliver product not
 - Follow our competitors and the industry 
 - Keep abreast with Agile/Scrum best practices and new trends
 
-## Videos
+## Resources
 
 - [Blog Post](https://www.scaledagileframework.com/product-owner/)
 - [7 Key Responsibilities of a Product Owner](https://www.lucidchart.com/blog/product-owner-roles-and-responsibilitieshttps://www.lucidchart.com/blog/product-owner-roles-and-responsibilities)
