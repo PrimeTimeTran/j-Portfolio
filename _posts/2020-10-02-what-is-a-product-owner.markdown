@@ -22,19 +22,19 @@ Your effort is important for the company as you will need to deliver product not
 
 ## Responsibilities
 
-- Take the lead of scrum teams as the Product Owner
-- Providing vision and direction to the Agile development team and stakeholders throughout the project and create requirements 
-- Ensure that the team always has an adequate amount of prior prepared tasks to work on
-- Plan and prioritize product feature backlog and development for the product
-- Define product vision, road-map and growth opportunities 
-- Assess value, develop cases, and prioritize stories, epics and themes to ensure work focuses on those with maximum value that are aligned with product strategy
-- Provide backlog management, iteration planning, and elaboration of the user stories
-- Work closely with Product Management to create and maintain a product backlog according to business value or ROI
-- Lead the planning product release plans and set the expectation for delivery of new   functionalities
-- Provide an active role in mitigating impediments impacting successful team completion of Release/Sprint Goals
-- Research and analyze market, the users, and the roadmap for the product
-- Follow our competitors and the industry 
-- Keep abreast with Agile/Scrum best practices and new trends
+- Take the lead of scrum teams as the Product Owner.
+- Providing vision and direction to the Agile development team and stakeholders throughout the project and create requirements.
+- Ensure that the team always has an adequate amount of prior prepared tasks to work on.
+- Plan and prioritize product feature backlog and development for the product.
+- Define product vision, road-map and growth opportunities.
+- Assess value, develop cases, and prioritize stories, epics and themes to ensure work focuses on those with maximum value that are aligned with product strategy.
+- Provide backlog management, iteration planning, and elaboration of the user stories.
+- Work closely with Product Management to create and maintain a product backlog according to business value or ROI.
+- Lead the planning product release plans and set the expectation for delivery of new   functionalities.
+- Provide an active role in mitigating impediments impacting successful team completion of Release/Sprint Goals.
+- Research and analyze market, the users, and the roadmap for the product.
+- Follow our competitors and the industry.
+- Keep abreast with Agile/Scrum best practices and new trends.
 
 ## Resources
 
