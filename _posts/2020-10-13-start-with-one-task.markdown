@@ -6,7 +6,7 @@ img: po-2.png
 alt: image-alt
 project-date: October 2020
 client: Personal Development
-title: What is Google Data Studio
+title: What is a good way to start your day?
 tags: Sprint-Planning
 categories: Sprint-Planning
 description: "How to sprint plan"
