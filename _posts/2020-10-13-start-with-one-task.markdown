@@ -15,3 +15,4 @@ description: "How to start with one task"
 ## Overview
 
 Organize the team to outline the tasks to do within the upcoming 2 weeks.
+1. Pick one day for a little victory
