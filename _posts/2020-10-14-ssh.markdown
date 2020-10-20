@@ -14,5 +14,4 @@ description: "What is SSH?"
 
 ## Overview
 
-What is SSH?s
-g
+What is SSH?
