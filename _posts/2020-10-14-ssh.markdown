@@ -5,7 +5,7 @@ date: 2020-10-14
 img: po-2.png
 alt: image-alt
 project-date: October 2020
-client: Personal Development
+client: SSH
 title: What is a good way to start your day?
 tags: SSH
 categories: SSH
