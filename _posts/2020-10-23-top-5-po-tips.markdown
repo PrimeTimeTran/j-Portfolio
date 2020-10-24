@@ -9,10 +9,10 @@ client: Personal Development
 title: What is a good way to start your day?
 tags: Personal-Development
 categories: Personal-Development
-description: "How to start with one task"
+description: "Top five tips for a PO"
 ---
 
 ## Overview
 
-Organize the team to outline the tasks to do within the upcoming 2 weeks.
 1. Pick one day for a little victory
+2. 
