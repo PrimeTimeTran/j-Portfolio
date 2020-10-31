@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 12
-date: 2020-10-02
+date: 2020-10-07
 img: po-2.png
 alt: image-alt
 project-date: October 2020
