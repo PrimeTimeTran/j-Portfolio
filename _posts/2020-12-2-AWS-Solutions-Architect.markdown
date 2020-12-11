@@ -14,4 +14,4 @@ description: "How is Google Sheets useful?"
 
 ## Overview
 
-How to deal with burnout?
+- EC2
