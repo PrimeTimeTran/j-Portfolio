@@ -4,12 +4,12 @@ modal-id: 21
 date: 2020-12-2
 img: po-2.png
 alt: image-alt
-project-date: November 2020
+project-date: December 2020
 client: Solution Architect
-title: How to use Google Sheets?
-tags: Google-Sheets
-categories: Google-Sheets
-description: "How is Google Sheets useful?"
+title: What to know as a AWS Certified Solutions Architect?
+tags: AWS
+categories: AWS-Solution-Architect
+description: "What to know as a AWS Certified Solutions Architect?"
 ---
 
 ## Overview
