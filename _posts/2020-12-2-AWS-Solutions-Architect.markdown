@@ -16,5 +16,6 @@ description: "How is Google Sheets useful?"
 
 - EC2
 - S3 Buckets
-- Hiberate
+- EC2 Hiberate
 - Security Groups
+- Amazon CloudFront
