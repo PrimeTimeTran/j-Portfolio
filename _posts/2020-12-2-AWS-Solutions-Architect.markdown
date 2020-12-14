@@ -19,3 +19,5 @@ description: "How is Google Sheets useful?"
 - EC2 Hiberate
 - Security Groups
 - Amazon CloudFront
+- Elastic Network Interface
+  Logical component in a VPC that represent a virtual network card
