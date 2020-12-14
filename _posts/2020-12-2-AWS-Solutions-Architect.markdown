@@ -16,8 +16,16 @@ description: "What to know as a AWS Certified Solutions Architect?"
 
 - EC2
 - S3 Buckets
-- EC2 Hiberate
 - Security Groups
 - Amazon CloudFront
 - Elastic Network Interface
-  Logical component in a VPC that represent a virtual network card
+  - Logical component in a VPC that represent a virtual network card
+  - Primary Private IPv4
+  - One Elastic IP
+  - One Public IPv4
+  - One or more security groups
+  - A MAC address
+  - Bound to a specific AZ
+  - Can be independently moved and attached to instances
+
+- EC2 Hibernate
