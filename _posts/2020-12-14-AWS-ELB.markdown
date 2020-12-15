@@ -1,0 +1,57 @@
+---
+layout: default
+modal-id: 22
+date: 2020-12-14
+img: po-2.png
+alt: image-alt
+project-date: December 2020
+client: Solution Architect
+title: What is Elastic Load Balancing(ELB)?
+tags: AWS
+categories: AWS-Solution-Architect
+description: "What is Elastic Load Balancing(ELB)?"
+---
+
+## Overview
+
+- ELB(EC2 Load Balancer)
+  - 3 Types
+    - V1, Classic Load Balancer(2009) HTTP, HTTPs, TCP
+    - V2, Application Load Balancer(2016) HTTP, HTTPS, Websocket
+    - V2, Network Load Balancer(2017) TCP, TLS(Secure TCP) & UDP
+    - Overall it is recommended to use the newer v2 generation load balancers as they provide more features
+    - Set up internal(private) or external(public) ELBs
+  - Benefts
+    - AWS gurautenes itll be working
+    - Take care of upgrades
+    - Provides only a few configuration knobs
+    - It costs less to setup your own load balancer but takes a lot more effort
+    - It is integrated with many AWS offerings/services.
+
+- Health Checks
+  - Crucial for Load Balancers
+  - Enable the LB to know if instance ti forwards traffic to are  available to reply to requests
+  - Health check is done on a port & route(/health is common)
+  - If the response  is not 200(OK), then the instance is unhealthy.
+
+Load Balancer Security Groups(SG)
+  - First SG allows HTTP/HTTPS from public users.
+  - Second SG allows from the load balancer, with source specified.
+
+  - Good to Know
+    - 4xx client errors
+    - 5xx app errors
+    - 503 error means at capacity or no registered target
+    - If LB cannot connect to to the app then check security group.
+
+  - Monitoring
+    - ELB access logs will log all access requests
+    - CloudWatch Metric will give you aggregate statistics
+
+## Classic Load Balancer(v1)
+
+Supports TCP(Layer 4), HTP & HTTPS(Layer 7)
+Health checks are TCCP or HTTP based
+Fixed hostname
+
+> xxx.region.elb.amazonaws.com
