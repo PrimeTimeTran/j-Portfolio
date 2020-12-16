@@ -14,6 +14,12 @@ description: "What to know as a AWS Certified Solutions Architect?"
 
 ## Overview
 
+
+## Key Topics
+
+- EC2
+- EC2 Hibernate
+
 - EC2
   - Billed by the second 
   - Linux/Mac use SSH
