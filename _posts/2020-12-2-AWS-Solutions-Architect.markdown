@@ -14,8 +14,10 @@ description: "What to know as a AWS Certified Solutions Architect?"
 
 ## Overview
 
+A summary of the knowledge required to become a certified Solution Architect from AWS.
+
 - EC2
-  - Billed by the second 
+  - Billed by the second
   - Linux/Mac use SSH
   - Windows use Putty
   - SSH is on port 22, lockdown the security group to your IP
@@ -101,4 +103,4 @@ Load Balancer Security Groups(SG)
   - Monitoring
     - ELB access logs will log all access requests
     - CloudWatch Metric will give you aggregate statistics
-    - 
+    -
