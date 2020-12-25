@@ -13,3 +13,5 @@ description: "What is CloudFront?"
 ---
 
 ## Overview
+
+A global CDN
