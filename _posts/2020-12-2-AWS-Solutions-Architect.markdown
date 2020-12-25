@@ -26,9 +26,6 @@ A summary of the knowledge required to become a certified Solution Architect fro
 - AWS Global Infrastructure
 - Network & Content Delivery
 
-
-
-
 - EC2
   - Billed by the second
   - Linux/Mac use SSH
@@ -89,9 +86,9 @@ A summary of the knowledge required to become a certified Solution Architect fro
     - V2, Application Load Balancer(2016) HTTP, HTTPS, Websocket
     - V2, Network Load Balancer(2017) TCP, TLS(Secure TCP) & UDP
     - Overall it is recommended to use the newer v2 generation load balancers as they provide more features
-    - Set up internal(private) or external(public) ELBs
+    - Set up internal(private) or external(public) ELBs.
   - Benefts
-    - AWS gurautenes itll be working
+    - AWS guarantees it'll be working
     - Take care of upgrades
     - Provides only a few configuration knobs
     - It costs less to setup your own load balancer but takes a lot more effort
