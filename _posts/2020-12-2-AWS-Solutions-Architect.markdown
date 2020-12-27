@@ -12,7 +12,9 @@ categories: AWS-Solution-Architect
 description: "What to know as a AWS Certified Solutions Architect?"
 ---
 
-## Overview
+# Overview
+
+## Key Points
 
 A summary of the knowledge required to become a certified Solution Architect from AWS.
 
@@ -23,6 +25,7 @@ A summary of the knowledge required to become a certified Solution Architect fro
 - Identity & Compliance
 - AWS Global Infrastructure
 - Network & Content Delivery
+
 
 
 - EC2
