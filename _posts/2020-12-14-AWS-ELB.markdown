@@ -13,6 +13,8 @@ description: "What is Elastic Load Balancing(ELB)?"
 ---
 
 ## Overview
+How to scale
+
 
 
 - ELB(EC2 Load Balancer)
