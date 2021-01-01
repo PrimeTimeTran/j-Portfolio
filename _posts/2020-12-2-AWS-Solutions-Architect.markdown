@@ -32,7 +32,7 @@ A summary of the knowledge required to become a certified Solution Architect fro
   - Windows use Putty
   - SSH is on port 22, lockdown the security group to your IP
   - Timeouts => Security Group issue.
-  - Permission issues on the SSH key => run `chmod  0400`
+  - Permission issues on the SSH key => run `chmod 0400`
   - Security Groups can reference other  secrutiy Groups instead of IP ranges (very popular exam question)
   - Know difference between Private, public, Elastic IP
   - Customize EC2 instance using EC2  User  Data
@@ -44,7 +44,7 @@ A summary of the knowledge required to become a certified Solution Architect fro
   - Know basic instance types: R, C, M, I, G, T2/T3(burstable).
   - Create AMIs to pre-install software on your EC2 => faster boot
   - AMI can be copied across regions & accounts
-  - EC2 instan ces can be started in placement groups:
+  - EC2 instances can be started in placement groups:
     - Cluster
     - Spread
     - Partition
@@ -114,3 +114,10 @@ Load Balancer Security Groups(SG)
     - ELB access logs will log all access requests
     - CloudWatch Metric will give you aggregate statistics
     -
+
+
+
+## Learning Resources
+
+- Quizlet
+- Knowledge Hut
