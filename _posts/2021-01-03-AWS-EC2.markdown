@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 23
+date: 2021-01-03
+img: po-2.png
+alt: image-alt
+project-date: January 2021
+client: Solution Architect
+title: What is Elastic Cloud Compute(EC2)?
+tags: AWS
+categories: AWS-Solution-Architect
+description: "What is Elastic Cloud Compute(EC2)?"
+---
+
+## Overview
+
+How to scale
