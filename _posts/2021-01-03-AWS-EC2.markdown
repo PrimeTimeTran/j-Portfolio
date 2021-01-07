@@ -15,3 +15,5 @@ description: "What is Elastic Cloud Compute(EC2)?"
 ## Overview
 
 How to scale
+
+Vertical scaling
